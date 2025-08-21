@@ -1,0 +1,62 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.vikram {
+  
+  background: url("Slide1.png");
+  background-repeat:no-repeat ;
+  background-position: center ;
+  background-size:1000px ;
+  /* opacity: 0.3; */
+}
+
+/* #vikram::before{
+  content: " ";
+  position: absolute;
+  z-index: -1;
+  align-items: center;
+} */
+
+/* img{
+  opacity: 0.5;
+  position: absolute;
+  size: 8cm
+} */
+
+.container {
+  font-size: x-large; 
+  font-style: oblique;
+  font-family: initial;
+  font-weight: 550;
+  
+}
+
+.container_heading{
+  font-style: normal;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.result{
+  
+  /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+  font-family: initial;
+  font-size: 90%;
+  font-style: oblique;
+  font-weight: 550;
+}
+
+.span{
+  color: green;
+  font-family: initial;
+}
+
+
+
+
+
